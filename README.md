@@ -1,6 +1,8 @@
 # Hey I am Akshat Verma👋
 💫 About Me:
+<br>
 🔭 I’m currently working on Frontend Projects <br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning JavaScript, DSA and Blockchain Development<br>
+
 
 
 ## 🌐 Socials:
