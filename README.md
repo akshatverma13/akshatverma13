@@ -6,7 +6,7 @@ Upcoming Data Analyst & Web Developer
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [akshatv200@gamil.com](mailto:akshatv200@gamil.com)
-* 🧠  I'm learning Excel & Javascrpt
+* 🧠  I'm learning Excel & Javascript
 
 ### Skills
 
