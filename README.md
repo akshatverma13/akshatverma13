@@ -1,4 +1,4 @@
-<h1 align="center">Hello!My name is Akshat Verma</h1>
+<h1 align="center">Hello! My name is Akshat Verma</h1>
 <h3 align="center">Eager Learner and Future Innovator</h3>
 
 - 🌱 I’m currently learning **DSA,Power BI,Machine Learning**
