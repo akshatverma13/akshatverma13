@@ -1,17 +1,8 @@
 <h1 align="center">Hello! My name is Akshat Verma</h1>
 <h3 align="center">Eager Learner and Future Innovator</h3>
-
-- 
-
 - 📫 How to reach me **akshatv1301@gmail.com**
-
-
 <p align="left">
 </p>
-
-🎯I'm currently working on building projects based on Deep Learning technique 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatverma13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshat_verma13) 
 
