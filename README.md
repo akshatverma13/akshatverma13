@@ -1,17 +1,65 @@
+# <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> adamalston<span></span>.com &middot; [![CI](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg)](https://github.com/adamalston/v2/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)](https://app.netlify.com/sites/adamalston/deploys)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatverma13) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshat_verma13) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshatverma13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshatverma13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatverma13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+The [adamalston.com](https://www.adamalston.com) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com).
 
+<img alt="Desktop preview" src="images/desktop.png" float="left" height="370"/> <img alt="Mobile preview" src="images/mobile.png" align="right" height="370"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshatverma13&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshatverma13&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatverma13&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+This website is designed to be simple and accessible. Dynamic particles create an interactive experience for visitors. The site offers two themes via a toggle: a dark theme (default) and a light theme. The selected theme persists between tabs, windows, and page reloads.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Optimized for mobile devices with screen sizes ranging from 4-inch smartphones to 13-inch tablets.
+
+## <img alt="Code logo" src="https://git.io/JUnUc" height="18"/> Open source
+
+This website is open source with the hope that others will use the code to create their own websites. I ask that this code be used with attribution, as a significant amount of time was spent on writing and optimizing it. Please give proper credit by linking back to [adamalston.com](https://www.adamalston.com). Thank you!
+
+<details>
+  <summary><b>Install and setup</b></summary>
+
+1. Clone this repository.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
+
+<b>Build and deploy</b>
+
+1. Create a production build: `npm run build`.
+2. Refer to the [React Deployment](https://create-react-app.dev/docs/deployment) docs for deploying to `gh-pages`, Netlify, and other services.
+
+</details>
+
+## <img alt="Font Awesome logo" src="https://git.io/JUnJT" height="18"/> Icons
+
+The website uses Font Awesome icons for various interactive elements.
+
+| Use        | Icon                                                         | Short-Code        |
+| ---------- | ------------------------------------------------------------ | ----------------- |
+| Dark Mode  | <img alt="Moon" src="https://git.io/JYkZg" height="20"/>     | `far moon`        |
+| Light Mode | <img alt="Sun" src="https://git.io/JYkZF" height="20"/>      | `far sun`         |
+| GitHub     | <img alt="GitHub" src="https://git.io/JYOvL" height="20"/>   | `fab github`      |
+| LinkedIn   | <img alt="LinkedIn" src="https://git.io/JYOex" height="20"/> | `fab linkedin`    |
+| Resume     | <img alt="File" src="https://git.io/JYOeu" height="20"/>     | `fal file-alt`    |
+| Email      | <img alt="Email" src="https://git.io/JYOei" height="20"/>    | `fal paper-plane` |
+
+## <img alt="Color diagram" src="https://git.io/JUnT0" height="18"> Color reference
+
+Text and icons are designed with a color contrast ratio greater than 7:1, satisfying [WCAG 2.1 Section 1.4.6](https://www.w3.org/TR/WCAG21/#contrast-enhanced).
+
+| Name   | Color                                                   | Hex      |
+| ------ | ------------------------------------------------------- | -------- |
+| Black  | ![Black](https://via.placeholder.com/16/000000?text=+)  | `000000` |
+| Slate  | ![Slate](https://via.placeholder.com/16/333333?text=+)  | `333333` |
+| Red    | ![Red](https://via.placeholder.com/16/ff2600?text=+)    | `ff2600` |
+| Orange | ![Orange](https://via.placeholder.com/16/ff8000?text=+) | `ff8000` |
+| Yellow | ![Yellow](https://via.placeholder.com/16/ffd500?text=+) | `ffd500` |
+| Green  | ![Green](https://via.placeholder.com/16/22dd22?text=+)  | `22dd22` |
+| Blue   | ![Blue](https://via.placeholder.com/16/00bfff?text=+)   | `00bfff` |
+| Purple | ![Purple](https://via.placeholder.com/16/c912ed?text=+) | `c912ed` |
+| Silver | ![Silver](https://via.placeholder.com/16/cccccc?text=+) | `cccccc` |
+| White  | ![White](https://via.placeholder.com/16/ffffff?text=+)  | `ffffff` |
+
+## Previous version
+
+For a look at the first version of my website, and to see how it has evolved, visit [v1](https://github.com/adamalston/v1).
+
+---
+
+If you find this project useful, consider giving it a <img alt="Star" src="https://git.io/JUn8T" height="14">! For questions or feedback, feel free to open an issue and I'll respond as soon as possible.
